@@ -1,0 +1,26 @@
+2026-11-13 12:58:10,890 - INFO - Iniciando procesamiento de reserva RES-1001 para cliente 1085300123.
+2026-11-13 12:58:10,891 - INFO - Reserva RES-1001 confirmada exitosamente. Costo Total: $160,650.00
+2026-11-13 12:58:10,891 - INFO - Cierre de ciclo de procesamiento para RES-1001. Estado final: Confirmada
+2026-11-13 12:58:10,891 - WARNING - Operación 2 rechazada correctamente por validación de cliente: Identificación inválida '1085ABC': debe contener solo dígitos.
+2026-11-13 12:58:10,891 - INFO - Iniciando procesamiento de reserva RES-1002 para cliente 98765432.
+2026-11-13 12:58:10,892 - INFO - Reserva RES-1002 confirmada exitosamente. Costo Total: $140,000.00
+2026-11-13 12:58:10,892 - INFO - Cierre de ciclo de procesamiento para RES-1002. Estado final: Confirmada
+2026-11-13 12:58:10,893 - INFO - Iniciando procesamiento de reserva RES-1003 para cliente 1122334455.
+2026-11-13 12:58:10,893 - INFO - Reserva RES-1003 confirmada exitosamente. Costo Total: $270,000.00
+2026-11-13 12:58:10,893 - INFO - Cierre de ciclo de procesamiento para RES-1003. Estado final: Confirmada
+2026-11-13 12:58:10,893 - INFO - Iniciando procesamiento de reserva RES-1004 para cliente 1020304050.
+2026-11-13 12:58:10,893 - ERROR - Error operativo al procesar la reserva RES-1004: La duración especificada para la reserva es inválida.
+2026-11-13 12:58:10,893 - INFO - Cierre de ciclo de procesamiento para RES-1004. Estado final: Fallida
+2026-11-13 12:58:10,894 - WARNING - Operación 5 rechazada por duración inválida: Error operativo al procesar la reserva RES-1004: La duración especificada para la reserva es inválida.
+2026-11-13 12:58:10,894 - WARNING - Operación 6 rechazada por correo inválido: Correo electrónico inválido: 'pedro-correo-sin-arroba'.
+2026-11-13 12:58:10,894 - INFO - Iniciando procesamiento de reserva RES-1005 para cliente 7788990011.
+2026-11-13 12:58:10,894 - INFO - Reserva RES-1005 confirmada exitosamente. Costo Total: $140,000.00
+2026-11-13 12:58:10,895 - INFO - Cierre de ciclo de procesamiento para RES-1005. Estado final: Confirmada
+2026-11-13 12:58:10,895 - INFO - Iniciando procesamiento de reserva RES-1006 para cliente 3322114455.
+2026-11-13 12:58:10,895 - ERROR - Error operativo al procesar la reserva RES-1006: La duración especificada para la reserva es inválida.
+2026-11-13 12:58:10,895 - INFO - Cierre de ciclo de procesamiento para RES-1006. Estado final: Fallida
+2026-11-13 12:58:10,895 - INFO - Iniciando procesamiento de reserva RES-1007 para cliente 2233445566.
+2026-11-13 12:58:10,895 - INFO - Reserva RES-1007 confirmada exitosamente. Costo Total: $107,100.00
+2026-11-13 12:58:10,895 - INFO - Cierre de ciclo de procesamiento para RES-1007. Estado final: Confirmada
+2026-11-13 12:58:10,896 - INFO - Reserva RES-1007 cancelada por solicitud del usuario.
+2026-11-13 12:58:10,896 - WARNING - Operación 10 rechazada por teléfono inválido: Teléfono inválido: '312ABC5566'. Debe ser numérico de al menos 7 dígitos.
